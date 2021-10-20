@@ -1,11 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 09:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 09:29:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[CAD-softwares]]></title>
+            <guid>95fc90ecfb794b20ba0dd78d8e0f6cc5</guid>
+            <pubDate>Wed, 20 Oct 2021 07:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2 id="cad-softwares">CAD softwares</h2>
+<table>
+<thead>
+<tr>
+<th>Soft</th>
+<th>pro</th>
+<th>con</th>
+<th>other</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SolveSpace</td>
+<td>free, parametric</td>
+<td>not usual interface</td>
+</tr>
+<tr>
+<td>FreeCAD</td>
+<td>free</td>
+</tr>
+<tr>
+<td>SweetHome3D</td>
+<td>free</td>
+<td>java</td>
+<td>java</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+        </item>
     </channel>
 </rss>
